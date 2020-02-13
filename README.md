@@ -69,3 +69,7 @@ the permitted uses of the "Google Cardboard" mark.
 * Don't incorporate the "Google Cardboard" mark into your own product names,
   service names, trademarks, logos, or company names.
 # LyonCardBoardVRinGoogleSample
+    2020.02.13 add OpenGL Mathematics (GLM) Library  in 
+    hellocaedboard-android->src->main->cpp->GLPrograms
+    that is a header only C++
+

@@ -1,0 +1,215 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/i_hfuhsu/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cc" ],
+	"libraries" : 
+	{
+		"cardboard_api-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cardboard_api",
+			"buildCommand" : "/Users/i_hfuhsu/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a --target cardboard_api",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/cardboard.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/distortion_mesh.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/distortion_renderer.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/head_tracker.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/lens_distortion.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/polynomial_radial_distortion.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/sensors/gyroscope_bias_estimator.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/sensors/lowpass_filter.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/sensors/mean_filter.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/sensors/median_filter.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/sensors/neck_model.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/sensors/pose_prediction.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/sensors/sensor_fusion_ekf.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/sensors/android/device_accelerometer_sensor.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/sensors/android/device_gyroscope_sensor.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/sensors/android/sensor_event_producer.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/util/matrix_3x3.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/util/matrix_4x4.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/util/matrixutils.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/util/rotation.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/util/vectorutils.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/qrcode/android/qr_code.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/screen_params/android/screen_params.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/my_cardboard_api_output_lib/armeabi-v7a/libcardboard_api.so",
+			"toolchain" : "8584638987898017435"
+		},
+		"cardboard_device_proto-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cardboard_device_proto",
+			"buildCommand" : "/Users/i_hfuhsu/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a --target cardboard_device_proto",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_device_proto_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/cardboard_device.pb.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_device_proto.so",
+			"toolchain" : "8584638987898017435"
+		},
+		"cardboard_v1_jni-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cardboard_v1_jni",
+			"buildCommand" : "/Users/i_hfuhsu/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a --target cardboard_v1_jni",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_v1_jni_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/qrcode/android/jni/qrcode_jni.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_v1_jni_EXPORTS -I../../../../. -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto -I/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/qrcode/cardboard_v1/cardboard_v1.cc",
+					"workingDirectory" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/.cxx/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/sdk/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_v1_jni.so",
+			"toolchain" : "8584638987898017435"
+		}
+	},
+	"toolchains" : 
+	{
+		"8584638987898017435" : 
+		{
+			"cCompilerExecutable" : "/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/i_hfuhsu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

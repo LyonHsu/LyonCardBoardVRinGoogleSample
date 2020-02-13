@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/i_hfuhsu/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/.cxx/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "GLPrograms-Debug-armeabi-v7a": {
+      "artifactName": "GLPrograms",
+      "buildCommand": "/Users/i_hfuhsu/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/.cxx/cmake/debug/armeabi-v7a --target GLPrograms",
+      "abi": "armeabi-v7a",
+      "output": "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/build/intermediates/cmake/debug/obj/armeabi-v7a/libGLPrograms.so"
+    },
+    "cardboard_jni-Debug-armeabi-v7a": {
+      "artifactName": "cardboard_jni",
+      "buildCommand": "/Users/i_hfuhsu/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/.cxx/cmake/debug/armeabi-v7a --target cardboard_jni",
+      "abi": "armeabi-v7a",
+      "output": "/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_jni.so"
+    }
+  }
+}

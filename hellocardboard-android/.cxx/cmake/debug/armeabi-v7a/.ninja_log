@@ -1,0 +1,13 @@
+# ninja log v5
+1	1522	0	CMakeFiles/GLPrograms.dir/src/main/cpp/GLPrograms/DistortionCorrection/MLensDistortion.cpp.o	d6508a10a8436448
+2	1704	0	CMakeFiles/GLPrograms.dir/src/main/cpp/GLPrograms/DistortionCorrection/MPolynomialRadialDistortion.cpp.o	50f2ea6c5d7a7b8c
+1	1922	0	CMakeFiles/GLPrograms.dir/src/main/cpp/GLPrograms/DistortionCorrection/DistortionManager.cpp.o	daffd75fdcfd4eac
+0	1934	0	CMakeFiles/GLPrograms.dir/src/main/cpp/GLPrograms/GLProgramTexture.cpp.o	c102b17e793fe278
+0	1985	0	CMakeFiles/GLPrograms.dir/src/main/cpp/GLPrograms/GLProgramVC.cpp.o	bbe3662533e488eb
+0	1995	0	CMakeFiles/GLPrograms.dir/src/main/cpp/GLPrograms/GLProgramText.cpp.o	8af0326297078c4d
+1	2003	0	CMakeFiles/GLPrograms.dir/src/main/cpp/GLPrograms/GLProgramLine.cpp.o	483c92a6a048061c
+2003	2069	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libGLPrograms.so	88d69ef020606045
+3	1220	0	CMakeFiles/cardboard_jni.dir/src/main/jni/hello_cardboard_jni.cc.o	88448373d0491a58
+3	1360	0	CMakeFiles/cardboard_jni.dir/src/main/jni/util.cc.o	5d42ce462248472c
+2	1726	0	CMakeFiles/cardboard_jni.dir/src/main/jni/hello_cardboard_app.cc.o	4f53d2774d487f66
+1726	1790	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_jni.so	b90a8a6221ea3cdd

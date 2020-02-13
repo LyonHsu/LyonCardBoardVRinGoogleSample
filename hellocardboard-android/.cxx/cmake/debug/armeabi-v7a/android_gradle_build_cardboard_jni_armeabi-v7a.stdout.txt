@@ -1,0 +1,32 @@
+[1/4] Building CXX object CMakeFiles/cardboard_jni.dir/src/main/jni/hello_cardboard_app.cc.o
+[2/4] Building CXX object CMakeFiles/cardboard_jni.dir/src/main/jni/hello_cardboard_jni.cc.o
+[3/4] Building CXX object CMakeFiles/cardboard_jni.dir/src/main/jni/util.cc.o
+In file included from /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/src/main/jni/hello_cardboard_jni.cc:22:
+In file included from /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/src/main/jni/hello_cardboard_app.h:33:
+../../../../../sdk/include/cardboard.h:246:15: warning: 'CreateMLensDistortion' has C-linkage specified, but returns user-defined type 'MDeviceParams' which is incompatible with C [-Wreturn-type-c-linkage]
+MDeviceParams CreateMLensDistortion(const uint8_t* encoded_device_params, int size, int display_width,
+              ^
+In file included from /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/src/main/jni/hello_cardboard_jni.cc:22:
+In file included from /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/src/main/jni/hello_cardboard_app.h:34:
+/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/src/main/jni/util.h:30:9: warning: 'LOGD' macro redefined [-Wmacro-redefined]
+#define LOGD(...) __android_log_print(ANDROID_LOG_DEBUG, LOG_TAG, __VA_ARGS__)
+        ^
+../../../../src/main/cpp/GLPrograms/Helper/MDebug.hpp:12:9: note: previous definition is here
+#define LOGD(...) __android_log_print(ANDROID_LOG_DEBUG, TAGMDEBUG, __VA_ARGS__)
+        ^
+2 warnings generated.
+In file included from /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/src/main/jni/hello_cardboard_app.cc:17:
+In file included from /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/src/main/jni/hello_cardboard_app.h:33:
+../../../../../sdk/include/cardboard.h:246:15: warning: 'CreateMLensDistortion' has C-linkage specified, but returns user-defined type 'MDeviceParams' which is incompatible with C [-Wreturn-type-c-linkage]
+MDeviceParams CreateMLensDistortion(const uint8_t* encoded_device_params, int size, int display_width,
+              ^
+In file included from /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/src/main/jni/hello_cardboard_app.cc:17:
+In file included from /Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/src/main/jni/hello_cardboard_app.h:34:
+/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/src/main/jni/util.h:30:9: warning: 'LOGD' macro redefined [-Wmacro-redefined]
+#define LOGD(...) __android_log_print(ANDROID_LOG_DEBUG, LOG_TAG, __VA_ARGS__)
+        ^
+../../../../src/main/cpp/GLPrograms/Helper/MDebug.hpp:12:9: note: previous definition is here
+#define LOGD(...) __android_log_print(ANDROID_LOG_DEBUG, TAGMDEBUG, __VA_ARGS__)
+        ^
+2 warnings generated.
+[4/4] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_jni.so

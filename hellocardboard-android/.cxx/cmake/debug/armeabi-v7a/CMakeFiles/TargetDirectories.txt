@@ -1,0 +1,4 @@
+/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/cardboard_jni.dir
+/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/i_hfuhsu/Android/Demo_GitHub/LyonCardBoardVRinGoogleSample/hellocardboard-android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/GLPrograms.dir
